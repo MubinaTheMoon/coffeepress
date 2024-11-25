@@ -16,4 +16,9 @@
 }
 .site-icons{
     gap: 2.4rem;
+    
+    .icon-hover:hover path{
+        transition: .3s;
+        fill: $dark-cyan;
+    }
 }
