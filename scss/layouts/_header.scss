@@ -16,4 +16,9 @@
 .header__link{
     color: $grey;
     line-height: $menu-lh;
+    transition: .3s;
+
+    &:hover{
+        color: black;
+    }
 }

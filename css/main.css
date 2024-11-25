@@ -418,6 +418,10 @@ a {
 .header__link {
   color: #83888F;
   line-height: 1.25;
+  transition: 0.3s;
+}
+.header__link:hover {
+  color: black;
 }
 
 .footer {
