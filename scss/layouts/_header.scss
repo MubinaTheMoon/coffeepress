@@ -1,0 +1,19 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.site-logo{
+    padding-top: 4.3rem;
+    padding-bottom: 4.3rem;
+}
+.header__list{
+    display: flex;
+    gap: 3.3rem;
+    font-size: $menu-fz;
+    font-weight: 700;
+}
+.header__link{
+    color: $grey;
+    line-height: $menu-lh;
+}

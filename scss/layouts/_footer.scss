@@ -1,0 +1,19 @@
+.footer{
+    background-color: #2C343E;
+}
+.footer-container{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.footer-logo-link,
+.site-icons{
+    display: flex;
+    align-items:center;
+}
+.footer-logo-link{
+    gap: 10.29rem;
+}
+.site-icons{
+    gap: 2.4rem;
+}
